@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # About Me:
 
-I am a mexican economist currently studying [Applied Social Data Science at LSE](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Applied-Social-Data-Science).
+I am a Mexican economist and Data Scientist currently studying [Social Policy at LSE](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2024/MPhilPhD-Social-Policy).
 
-- 🔭 I’m currently working on topics related to Social Mobility, Inequality of Opportunities & Labour Market Outcomes. 
+- 🔭 I’m currently working on Social Mobility, Inequality of Opportunities & Labour Market Outcomes. 
 - 🌱 I’m currently learning new methodologies to further my analysis in these fields & Web development to visualize results.
 
 ## Professional Experience:
